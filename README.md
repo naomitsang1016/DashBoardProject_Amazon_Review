@@ -1,5 +1,8 @@
 # DashBoardProject_Amazon_Review by Naomi Tsang | Serena Chan | Thomas Wong
 
+View the Power BI DashBoard on YouTube:
+https://lnkd.in/gBhQEX4h
+
 The data were the public informtion of Amazon.com on 11th April 2022 and collected by web scrapping and Kaggle Dataset: Amazon Product Reviews(https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews).
 
 The Project started on 11th April 2022 and ended at 14th April 2022.
